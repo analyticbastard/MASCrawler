@@ -1,0 +1,7 @@
+C:\Users\Gabo\Documents\Visual Studio 2008\Projects\Project1\ConsoleApplication1\bin\Release\datos.sdf
+C:\Users\Gabo\Documents\Visual Studio 2008\Projects\Project1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\Users\Gabo\Documents\Visual Studio 2008\Projects\Project1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\Gabo\Documents\Visual Studio 2008\Projects\Project1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\Gabo\Documents\Visual Studio 2008\Projects\Project1\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gabo\Documents\Visual Studio 2008\Projects\Project1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\Gabo\Documents\Visual Studio 2008\Projects\Project1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

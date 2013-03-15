@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="16ac2601-f33b-49ae-8b36-7ec2a8d0702a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address=" http://academic.research.microsoft.com/api.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="API.xsd" MetadataType="Schema" ID="2b801b2b-fb73-4504-a7ff-83af5311608f" SourceId="1" SourceUrl="http://academic.research.microsoft.com/Common/api/API.svc?xsd=xsd3" />
+    <MetadataFile FileName="API.wsdl" MetadataType="Wsdl" ID="9253a9db-87f7-4578-973f-1e23d4d0e0bb" SourceId="1" SourceUrl="http://academic.research.microsoft.com/Common/api/API.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="API1.xsd" MetadataType="Schema" ID="3654d577-b081-4c19-a295-5a8d6b30c821" SourceId="1" SourceUrl="http://academic.research.microsoft.com/Common/api/API.svc?xsd=xsd2" />
+    <MetadataFile FileName="APIService.wsdl" MetadataType="Wsdl" ID="236ae248-c372-47ec-933e-fec6882e6a11" SourceId="1" SourceUrl="http://academic.research.microsoft.com/api.svc?wsdl" />
+    <MetadataFile FileName="API2.xsd" MetadataType="Schema" ID="dd343348-df64-43a1-822c-f9b7debbba76" SourceId="1" SourceUrl="http://academic.research.microsoft.com/Common/api/API.svc?xsd=xsd1" />
+    <MetadataFile FileName="API3.xsd" MetadataType="Schema" ID="913e4265-6cb9-4637-9eda-8df9fa451874" SourceId="1" SourceUrl="http://academic.research.microsoft.com/Common/api/API.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

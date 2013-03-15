@@ -1,0 +1,2 @@
+C:\Users\Gabo\AppData\Local\Temporary Projects\Project1\bin\Debug\Project1.exe.config
+C:\Users\Gabo\Documents\Visual Studio 2008\Projects\Project1\Project1\bin\Debug\Project1.exe.config
